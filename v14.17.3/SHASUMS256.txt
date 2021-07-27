@@ -1,1 +1,2 @@
 b0dffe2d32736305aa47a3a56e455735c1879714a16c5bf082bb2539cabb6e3b  node-v14.17.3-darwin-arm64.tar.xz
+cb4f05f41fa661dc9450428e950dd73af89c27e18337f9f7945cbfe7ceaef6f2  node-v14.17.3-darwin-arm64.tar.gz
